@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "outFile": "./src/config/extension.js",		
+        "preserveConstEnums": true,
+        "removeComments": true,
+        "target": "ES5"
+    },
+    "include": [
+        "src/ts/*"
+    ]
+}
